@@ -1,1 +1,0 @@
-Hello, World! New version of index file
